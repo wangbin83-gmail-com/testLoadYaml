@@ -1,0 +1,30 @@
+---
+name: after_prefr_amount
+type: range
+value: 
+   - 0-999
+   - 1000-9999
+---
+name: ordsum
+type: raw
+value: 
+   - 50
+   - 100
+   - 150
+
+---
+name: before_prefr_unit_price
+type: list
+value: 
+   - 北京、内蒙古、辽宁、湖北
+   - 河北、山西、广东、山东
+   - 其他
+
+---
+name: weekday
+type: range
+value: 
+   - 0-0
+   - 1-1
+   - 2-2
+   - 3-
